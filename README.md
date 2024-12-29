@@ -41,6 +41,10 @@ streamlit
 ## **Project Structure**
 
 |-- ml_model.py             # Main project script
+
 |-- decision_tree_model.pkl # Saved model file
+
 |-- requirements.txt        # Python dependencies
+
 |-- README.md               # Project documentation
+
