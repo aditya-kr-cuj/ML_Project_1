@@ -24,6 +24,7 @@ Run the Model Training Script
 -python ml_model.py
 
 Run the Streamlit App
+
 -To launch the interactive dashboard:
 -streamlit run ml_model.py
 
