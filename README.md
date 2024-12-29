@@ -40,11 +40,12 @@ streamlit
    
 ## **Project Structure**
 
-|-- ml_model.py             # Main project script
-
-|-- decision_tree_model.pkl # Saved model file
-
-|-- requirements.txt        # Python dependencies
-
 |-- README.md               # Project documentation
+
+|-- ml_model.py               # Main project script
+
+|-- iris_species_dashboard.py  # Streamlit app for interactive predictions
+
+
+
 
